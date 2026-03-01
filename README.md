@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://stratuspredict.onrender.com/">Live Demo</a> • 📜 <a href="LICENSE">License</a>Source</a>
+  🔗 <a href="https://stratuspredict.onrender.com/">Live Demo</a> • 📜 <a href="LICENSE">License</a>
 </p>
 
 
