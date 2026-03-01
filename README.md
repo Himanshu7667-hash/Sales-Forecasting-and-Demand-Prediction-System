@@ -6,12 +6,6 @@
 </p>
 
 
-<p align="center">
-  <!-- Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/python-3.9+-blue" alt="Python 3.9+" />
-  <img src="https://img.shields.io/badge/scikit--learn-1.6+-orange" alt="scikit-learn 1.6+" />
-  <img src="https://img.shields.io/github/stars/rodrigo-bravo/ecommerce-data-analytics-case-study" alt="GitHub Stars" />
-</p>
 
 <p align="center">
   <img src="assets/banner.png" alt="Ecommerce Intelligence Dashboard" style="max-width:100%; height:auto;" />
