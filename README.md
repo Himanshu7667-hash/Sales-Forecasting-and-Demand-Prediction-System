@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://ecommerce-intelligence-dashboard.streamlit.app/">Live Demo</a> • 📜 <a href="LICENSE">License</a> • 📂 <a href="https://github.com/rodrigo-bravo/ecommerce-data-analytics-case-study">Source</a>
+  🔗 <a href="https://stratuspredict.onrender.com/">Live Demo</a> • 📜 <a href="LICENSE">License</a> • 📂 <a href="https://github.com/rodrigo-bravo/ecommerce-data-analytics-case-study">Source</a>
 </p>
 
 
