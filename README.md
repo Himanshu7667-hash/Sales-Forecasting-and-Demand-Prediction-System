@@ -5,13 +5,6 @@
   <em>Production-ready platform delivering end-to-end e-commerce analytics and forecasting—featuring interactive KPI dashboards, ML-driven A/B test analysis, customer segmentation, CLV modeling, and demand forecasting to drive data-driven growth</em>
 </p>
 
-<p align="center">
-  <!-- Impact Badges -->
-  <img src="https://img.shields.io/badge/AOV-%2480.03-blue" alt="Avg Order Value" />
-  <img src="https://img.shields.io/badge/MAPE-9.8%25-yellow" alt="Forecast MAPE" />
-  <img src="https://img.shields.io/badge/Orders-10k+-green" alt="Total Orders" />
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
-</p>
 
 <p align="center">
   <!-- Tech Stack Badges -->
@@ -25,7 +18,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://stratuspredict.onrender.com/">Live Demo</a> • 📜 <a href="LICENSE">License</a> • 📂 <a href="https://github.com/rodrigo-bravo/ecommerce-data-analytics-case-study">Source</a>
+  🔗 <a href="https://stratuspredict.onrender.com/">Live Demo</a> • 📜 <a href="LICENSE">License</a>Source</a>
 </p>
 
 
